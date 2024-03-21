@@ -37,4 +37,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For inquiries, please contact us at spirity.jsc@gmail.com.
+For inquiries, please contact us at [spirity.jsc@gmail.com].
